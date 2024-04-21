@@ -1,5 +1,5 @@
 const request = require('supertest');
-const createServer = require('./src/app');
+const createServer = require('./app');
 const { accessSync } = require('fs');
 const app = createServer;
 

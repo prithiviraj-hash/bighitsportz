@@ -45,7 +45,7 @@ Participant Details:
 
 Project Setup Process:
 Step 1: Clone the project files into localsystem using https in github.
-Step 2: Change terminal directory to src/app.js file where found.
+Step 2: Change terminal directory to app.js file where found.
 Step 3: Run Command = " npm install -g nodemon ", Ignore if you already have Nodemon.
 Step 4: Run Command = " npm install " | " npm install -f ", To install dependencies that is 
 required to run this project.

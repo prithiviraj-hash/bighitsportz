@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuites name="jest tests" tests="8" failures="0" errors="0" time="0.875">
-  <testsuite name="Graphql Test" errors="0" failures="0" skipped="0" timestamp="2024-04-20T17:18:29" time="0.75" tests="8">
-    <testcase classname="Graphql Test create event" name="Graphql Test create event" time="0.059">
+<testsuites name="jest tests" tests="8" failures="0" errors="0" time="0.963">
+  <testsuite name="Graphql Test" errors="0" failures="0" skipped="0" timestamp="2024-04-21T14:04:19" time="0.889" tests="8">
+    <testcase classname="Graphql Test create event" name="Graphql Test create event" time="0.066">
     </testcase>
-    <testcase classname="Graphql Test duplicate event" name="Graphql Test duplicate event" time="0.018">
+    <testcase classname="Graphql Test duplicate event" name="Graphql Test duplicate event" time="0.015">
     </testcase>
-    <testcase classname="Graphql Test get event details" name="Graphql Test get event details" time="0.002">
+    <testcase classname="Graphql Test get event details" name="Graphql Test get event details" time="0.001">
     </testcase>
     <testcase classname="Graphql Test register to event" name="Graphql Test register to event" time="0">
     </testcase>
-    <testcase classname="Graphql Test register to nonExistingEvent - Error Response" name="Graphql Test register to nonExistingEvent - Error Response" time="0.007">
+    <testcase classname="Graphql Test register to nonExistingEvent - Error Response" name="Graphql Test register to nonExistingEvent - Error Response" time="0.006">
     </testcase>
     <testcase classname="Graphql Test registration closed - no of participants excludes" name="Graphql Test registration closed - no of participants excludes" time="0.005">
     </testcase>
-    <testcase classname="Graphql Test update existing event" name="Graphql Test update existing event" time="0.01">
+    <testcase classname="Graphql Test update existing event" name="Graphql Test update existing event" time="0.004">
     </testcase>
-    <testcase classname="Graphql Test delete event" name="Graphql Test delete event" time="0.008">
+    <testcase classname="Graphql Test delete event" name="Graphql Test delete event" time="0.004">
     </testcase>
   </testsuite>
 </testsuites>
