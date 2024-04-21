@@ -49,6 +49,7 @@ Step 2: Change terminal directory to src/app.js file where found.
 Step 3: Run Command = " npm install " | " npm install -f ", To install dependencies that is 
 required to run this project.
 Step 4: Run Command = " nodemon app.js " | " node app.js ", To start the application.
+Step 5: URL to run queries = "http://localhost:4000/graphql"
 
 
 API Interaction:
